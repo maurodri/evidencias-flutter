@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "690849351051",
+    "project_id": "login-ui-pers",
+    "storage_bucket": "login-ui-pers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690849351051:android:7270b9d3ce6135b49f1b8e",
+        "android_client_info": {
+          "package_name": "com.example.login_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690849351051-m01aa28h2lo8a5msup8dv5b42g4n5bua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5xgEGiKwiRSPnLoRR9KC6wnXEXpS6jN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690849351051-m01aa28h2lo8a5msup8dv5b42g4n5bua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
